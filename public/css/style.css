@@ -1,0 +1,16 @@
+.bg-pink{
+    background-color: #a10666;
+}
+
+.sidebar-pink .navbar-nav .nav-link {
+    color: #ff66cc; /* Warna teks sesuai dengan warna latar belakang */
+}
+
+.sidebar-pink .navbar-nav .nav-link:hover {
+    color: #ffffff; /* Warna teks saat hover, bisa disesuaikan */
+}
+
+.sidebar-pink .navbar-nav .nav-link.active {
+    color: #ffffff; /* Warna teks untuk link aktif */
+}
+
